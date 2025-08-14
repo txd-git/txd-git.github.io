@@ -30,7 +30,8 @@
     "last_opened_file_path": "/Users/moody/software/txd-git.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755149100554</updated>
       <workItem from="1755149101912" duration="187000" />
+      <workItem from="1755151332957" duration="52000" />
     </task>
     <servers />
   </component>
